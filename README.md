@@ -1,6 +1,6 @@
 ## ✨ Polina Kasich
 
-**`Beginner Frontend Developer`**
+**`Junior Frontend Developer`**
 
 Frontend developer with a degree in Software Engineering (2024, with honors).
 Building responsive and modern UIs with JavaScript (ES6+), TypeScript, React, Redux, Vue 3, CSS/SCSS, Tailwind, and Vite.
