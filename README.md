@@ -3,7 +3,7 @@
 **`Junior Frontend Developer`**
 
 **Frontend developer** with a **honors degree in Software Engineering (2024)**.  
-Core focus on **Vue 3** and **TypeScript** — I build scalable, maintainable applications using **Vue Router**, **TanStack Query**, and **Tailwind CSS**. Also experienced with **React** and **Next** (Redux, MobX, React Query) and modern tooling like **Vite**.
+Core focus on **Vue 3** and **TypeScript** — I build scalable, maintainable applications using **Vue Router**, **TanStack Query**, and **Tailwind CSS**. Also experienced with **React** and **Next** (Redux, MobX, React Query) and modern tooling like **Vite**. Project structure - **Feature-Sliced Design**.
 
 I care deeply about **clean architecture**, **readable code**, and **long‑term maintainability** — solutions that work well both in a team and as the project evolves.  
 I quickly dive into new domains, handle complex user scenarios, and optimise data interactions for better performance.
@@ -12,7 +12,7 @@ I quickly dive into new domains, handle complex user scenarios, and optimise dat
 
 ---
 
-Окончила университет по направлению **«Программная инженерия»** с красным дипломом. Специализируюсь на **Vue 3** и **TypeScript**, уверенно работаю с Vue Router, **TanStack Query**, **Tailwind CSS**. Также имею опыт разработки проектов на **React, Next** с использованием **Redux, MobX и React Query**.
+Окончила университет по направлению **«Программная инженерия»** с красным дипломом. Специализируюсь на **Vue 3** и **TypeScript**, уверенно работаю с Vue Router, **TanStack Query**, **Tailwind CSS**. Также имею опыт разработки проектов на **React, Next** с использованием **Redux, MobX и React Query**. Для организации структуры проекта использую **Feature-Sliced Design**
 
 В работе особое внимание уделяю **продуманной архитектуре**, чистому и читаемому коду, а также **гибким решениям**, которые легко поддерживать и развивать в команде. Быстро погружаюсь в предметную область, умею работать со сложными пользовательскими сценариями и оптимизировать взаимодействие с данными.
 
