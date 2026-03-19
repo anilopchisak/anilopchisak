@@ -31,7 +31,7 @@ Passionate about writing clean, maintainable code and creating complex, user-fri
 
 <p>
   <img alt="Vue3" title="Vue 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
-   <img alt="TanStack Query" title="TanStack Query" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactquery/reactquery-original.svg" />
+   <img alt="TanStack Query" title="TanStack Query" width="40px" src="https://cdn.jsdelivr.net/npm/@tanstack/react-query@5.91.0/+esm" />
 
   <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
