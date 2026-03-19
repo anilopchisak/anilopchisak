@@ -2,10 +2,21 @@
 
 **`Junior Frontend Developer`**
 
-Frontend developer with a degree in Software Engineering (2024, with honors).
-Building responsive and modern UIs with JavaScript (ES6+), TypeScript, React, Redux, Vue 3, CSS/SCSS, Tailwind, and Vite.
-Experience with Feature-Sliced Design, REST APIs, authentication, state management, CI/CD, and deployment.
-Passionate about writing clean, maintainable code and creating complex, user-friendly interfaces with smooth animations.
+**Frontend developer** with a **honors degree in Software Engineering (2024)**.  
+Core focus on **Vue 3** and **TypeScript** — I build scalable, maintainable applications using **Vue Router**, **TanStack Query**, and **Tailwind CSS**. Also experienced with **React** and **Next** (Redux, MobX, React Query) and modern tooling like **Vite**.
+
+I care deeply about **clean architecture**, **readable code**, and **long‑term maintainability** — solutions that work well both in a team and as the project evolves.  
+I quickly dive into new domains, handle complex user scenarios, and optimise data interactions for better performance.
+
+**Always growing** — my next step is to deepen expertise in advanced user flows and frontend performance.
+
+---
+
+Окончила университет по направлению «Программная инженерия» с красным дипломом. Специализируюсь на Vue 3 и TypeScript, уверенно работаю с Vue Router, TanStack Query, Tailwind CSS. Также имею опыт разработки проектов на React, Next с использованием Redux, MobX и React Query.
+
+В работе особое внимание уделяю продуманной архитектуре, чистому и читаемому коду, а также гибким решениям, которые легко поддерживать и развивать в команде. Быстро погружаюсь в предметную область, умею работать со сложными пользовательскими сценариями и оптимизировать взаимодействие с данными.
+
+Моя цель - дальнейший профессиональный рост с фокусом на сложные пользовательские сценарии и производительность.
 
 <p align="left">
     <a href="mailto:alice.sova@mail.ru">
@@ -27,7 +38,7 @@ Passionate about writing clean, maintainable code and creating complex, user-fri
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools | Стек технологий
 
 <p>
   <img alt="Vue3" title="Vue 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
