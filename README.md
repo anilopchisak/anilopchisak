@@ -1,4 +1,4 @@
-## ✨ Polina Kasich
+## ✨ Polina Kasich | Полина Касич
 
 **`Junior Frontend Developer`**
 
@@ -31,7 +31,7 @@ Passionate about writing clean, maintainable code and creating complex, user-fri
 
 <p>
   <img alt="Vue3" title="Vue 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
-  <img alt="TanStack Query" title="TanStack Query" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" />
+   <img alt="TanStack Query" title="TanStack Query" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactquery/reactquery-original.svg" />
 
   <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -48,7 +48,7 @@ Passionate about writing clean, maintainable code and creating complex, user-fri
   <img alt="SCSS" title="SCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img alt="Tailwind" title="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img alt="Element Plus" title="Element Plus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/element/element-original.svg" />
+  <img alt="Element Plus" title="Element Plus" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/element/element-original.svg" />
 
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
