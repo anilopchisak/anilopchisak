@@ -34,6 +34,9 @@ I quickly dive into new domains, handle complex user scenarios, and optimise dat
     <a href="https://leetcode.com/u/anilopchisak/">
         <img alt="LeetCode" title="My LeetCode profile" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-green?style=for-the-badge&logo=leetcode&logoColor=white"/>
     </a>
+    <a href="https://set.ki/fWpMVNa">
+        <img alt="Сетка" title="My profile on Setka" src="https://custom-icon-badges.demolab.com/badge/-Сетка-8B5CF6?style=for-the-badge&logo=link&logoColor=white"/>
+    </a>
 </p>
 
 ---
